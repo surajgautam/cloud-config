@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.surajgautam</groupId>
-	<artifactId>cloud-config</artifactId>
+	<artifactId>config-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>cloud-config</name>
+	<name>config-server</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
